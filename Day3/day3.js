@@ -35,3 +35,14 @@
 
 async function test1(){
     console.log("Message 1");
+    const response=await fetch("./studentdata.json");
+    console.log(response.status)
+    const srdn=await response.json();
+    return srdn;
+    console.log("Message 2");
+}
+test1().then((res)=>{
+    console.log(res);
+});
+
+console.log("Message 3");
