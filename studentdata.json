@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "gender": "Male",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "cgpa": 8.7,
+    "email": "aarav.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Ananya Gupta",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "cgpa": 9.1,
+    "email": "ananya.gupta@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "age": 21,
+    "gender": "Male",
+    "course": "B.Tech IT",
+    "year": 3,
+    "cgpa": 8.3,
+    "email": "rohan.verma@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "age": 20,
+    "gender": "Female",
+    "course": "B.Tech ECE",
+    "year": 2,
+    "cgpa": 9.0,
+    "email": "priya.singh@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "age": 22,
+    "gender": "Male",
+    "course": "B.Tech ME",
+    "year": 4,
+    "cgpa": 7.9,
+    "email": "karan.mehta@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "age": 21,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 3,
+    "cgpa": 8.8,
+    "email": "sneha.patel@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Rahul Kumar",
+    "age": 19,
+    "gender": "Male",
+    "course": "B.Tech CE",
+    "year": 1,
+    "cgpa": 7.8,
+    "email": "rahul.kumar@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Ishita Roy",
+    "age": 22,
+    "gender": "Female",
+    "course": "B.Tech EE",
+    "year": 4,
+    "cgpa": 9.3,
+    "email": "ishita.roy@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Vikram Joshi",
+    "age": 20,
+    "gender": "Male",
+    "course": "B.Tech AI",
+    "year": 2,
+    "cgpa": 8.5,
+    "email": "vikram.joshi@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Neha Kapoor",
+    "age": 21,
+    "gender": "Female",
+    "course": "B.Tech DS",
+    "year": 3,
+    "cgpa": 9.2,
+    "email": "neha.kapoor@example.com"
+  }
+]
