@@ -13,5 +13,6 @@ const event1=new EventEmitter();
 event1.on("INFO",()=>{
     console.log("My name is Piyush Gupta.");
     console.log("My age is 20.");
+    
 })
 event1.emit("INFO")
