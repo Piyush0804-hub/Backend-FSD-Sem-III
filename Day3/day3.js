@@ -1,25 +1,27 @@
 //Promise for async
 //JS single threaded
 // const promiseOne=new Promise((resolve, reject)=>{
-//     console.log("Promise Task 1");
-//     resolve("Promises Passed by using resolve.");
-//     let msg=true;
-//     if(msg!=true){
-//         console.log("Message using promises failed");
-//     }
-//     else{
-//         console.log("ERROR......")
-//     }
+//     console.log("Promise Started");
 //     setTimeout(()=>{
-//         console.log(resolve());
-//     }, 3000)
-// });
-// promiseOne.then((result)=>{
-//     console.log(result)
-// }).catch((error)=>{
-//     console.log(error)
+//         let success=true;
+//         if(success){
+//             resolve("Promise completed successfully");
+//         }
+//         else{
+//             reject("Promise failed");
+//         }
 
+//     }, 2000);
+
+// });
+
+// promiseOne
+// .then((result)=>{
+//     console.log(result);
 // })
+// .catch((error)=>{
+//     console.log(error);
+// });
 
 
 //Async await

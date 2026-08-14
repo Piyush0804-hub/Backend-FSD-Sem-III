@@ -25,7 +25,7 @@ const f3= main=()=>{
         resolve("Promise 2");
     }).then((res)=>{
         console.log(res);
-    })
+    })  
 }
 
 f3();
