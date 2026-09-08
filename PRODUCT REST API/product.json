@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "brand": "SoundMax",
+    "rating": 4.5,
+    "stock": 42
+  },
+  {
+    "id": 2,
+    "name": "Smartphone X1",
+    "category": "Electronics",
+    "price": 18999,
+    "brand": "TechPro",
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 3499,
+    "brand": "KeyMaster",
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": 4,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 1299,
+    "brand": "ClickPro",
+    "rating": 4.2,
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "name": "USB-C Fast Charger",
+    "category": "Electronics",
+    "price": 899,
+    "brand": "PowerTech",
+    "rating": 4.4,
+    "stock": 75
+  },
+  {
+    "id": 6,
+    "name": "Laptop Pro 14",
+    "category": "Electronics",
+    "price": 64999,
+    "brand": "TechPro",
+    "rating": 4.7,
+    "stock": 12
+  },
+  {
+    "id": 7,
+    "name": "Smart Watch S2",
+    "category": "Electronics",
+    "price": 5999,
+    "brand": "FitTime",
+    "rating": 4.1,
+    "stock": 30
+  },
+  {
+    "id": 8,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 2199,
+    "brand": "SoundMax",
+    "rating": 4.5,
+    "stock": 35
+  },
+  {
+    "id": 9,
+    "name": "1080p Web Camera",
+    "category": "Electronics",
+    "price": 1799,
+    "brand": "VisionTech",
+    "rating": 4.0,
+    "stock": 28
+  },
+  {
+    "id": 10,
+    "name": "Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": 1599,
+    "brand": "PowerTech",
+    "rating": 4.4,
+    "stock": 50
+  },
+  {
+    "id": 11,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 2999,
+    "brand": "RunFast",
+    "rating": 4.5,
+    "stock": 32
+  },
+  {
+    "id": 12,
+    "name": "Casual Sneakers",
+    "category": "Footwear",
+    "price": 2499,
+    "brand": "StreetStep",
+    "rating": 4.2,
+    "stock": 45
+  },
+  {
+    "id": 13,
+    "name": "Leather Formal Shoes",
+    "category": "Footwear",
+    "price": 3999,
+    "brand": "ClassicWalk",
+    "rating": 4.6,
+    "stock": 20
+  },
+  {
+    "id": 14,
+    "name": "Sports Sandals",
+    "category": "Footwear",
+    "price": 1499,
+    "brand": "RunFast",
+    "rating": 4.1,
+    "stock": 38
+  },
+  {
+    "id": 15,
+    "name": "Canvas Sneakers",
+    "category": "Footwear",
+    "price": 1899,
+    "brand": "StreetStep",
+    "rating": 4.3,
+    "stock": 27
+  },
+  {
+    "id": 16,
+    "name": "Hiking Boots",
+    "category": "Footwear",
+    "price": 4599,
+    "brand": "MountainGear",
+    "rating": 4.7,
+    "stock": 15
+  },
+  {
+    "id": 17,
+    "name": "Training Shoes",
+    "category": "Footwear",
+    "price": 3299,
+    "brand": "RunFast",
+    "rating": 4.4,
+    "stock": 24
+  },
+  {
+    "id": 18,
+    "name": "Flip Flops",
+    "category": "Footwear",
+    "price": 599,
+    "brand": "ComfortStep",
+    "rating": 4.0,
+    "stock": 80
+  },
+  {
+    "id": 19,
+    "name": "Slip-On Shoes",
+    "category": "Footwear",
+    "price": 2199,
+    "brand": "ComfortStep",
+    "rating": 4.2,
+    "stock": 41
+  },
+  {
+    "id": 20,
+    "name": "Basketball Shoes",
+    "category": "Footwear",
+    "price": 5499,
+    "brand": "CourtPro",
+    "rating": 4.6,
+    "stock": 17
+  },
+  {
+    "id": 21,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 799,
+    "brand": "UrbanWear",
+    "rating": 4.3,
+    "stock": 100
+  },
+  {
+    "id": 22,
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "price": 1999,
+    "brand": "DenimCo",
+    "rating": 4.4,
+    "stock": 55
+  },
+  {
+    "id": 23,
+    "name": "Hooded Sweatshirt",
+    "category": "Clothing",
+    "price": 1799,
+    "brand": "UrbanWear",
+    "rating": 4.5,
+    "stock": 43
+  },
+  {
+    "id": 24,
+    "name": "Formal Shirt",
+    "category": "Clothing",
+    "price": 1499,
+    "brand": "ClassicFit",
+    "rating": 4.2,
+    "stock": 37
+  },
+  {
+    "id": 25,
+    "name": "Cargo Pants",
+    "category": "Clothing",
+    "price": 1899,
+    "brand": "StreetStyle",
+    "rating": 4.3,
+    "stock": 48
+  },
+  {
+    "id": 26,
+    "name": "Denim Jacket",
+    "category": "Clothing",
+    "price": 2999,
+    "brand": "DenimCo",
+    "rating": 4.6,
+    "stock": 21
+  },
+  {
+    "id": 27,
+    "name": "Polo T-Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "brand": "ClassicFit",
+    "rating": 4.1,
+    "stock": 65
+  },
+  {
+    "id": 28,
+    "name": "Track Pants",
+    "category": "Clothing",
+    "price": 1299,
+    "brand": "SportWear",
+    "rating": 4.4,
+    "stock": 58
+  },
+  {
+    "id": 29,
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 3999,
+    "brand": "NorthPeak",
+    "rating": 4.7,
+    "stock": 19
+  },
+  {
+    "id": 30,
+    "name": "Linen Casual Shirt",
+    "category": "Clothing",
+    "price": 1699,
+    "brand": "UrbanWear",
+    "rating": 4.3,
+    "stock": 34
+  },
+  {
+    "id": 31,
+    "name": "Backpack 25L",
+    "category": "Bags",
+    "price": 1999,
+    "brand": "TravelPro",
+    "rating": 4.5,
+    "stock": 40
+  },
+  {
+    "id": 32,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 2499,
+    "brand": "UrbanPack",
+    "rating": 4.6,
+    "stock": 29
+  },
+  {
+    "id": 33,
+    "name": "Travel Duffel Bag",
+    "category": "Bags",
+    "price": 1799,
+    "brand": "TravelPro",
+    "rating": 4.2,
+    "stock": 33
+  },
+  {
+    "id": 34,
+    "name": "Leather Office Bag",
+    "category": "Bags",
+    "price": 3499,
+    "brand": "ClassicCarry",
+    "rating": 4.5,
+    "stock": 16
+  },
+  {
+    "id": 35,
+    "name": "Sling Bag",
+    "category": "Bags",
+    "price": 999,
+    "brand": "UrbanPack",
+    "rating": 4.1,
+    "stock": 52
+  },
+  {
+    "id": 36,
+    "name": "Gym Bag",
+    "category": "Bags",
+    "price": 1299,
+    "brand": "SportWear",
+    "rating": 4.3,
+    "stock": 44
+  },
+  {
+    "id": 37,
+    "name": "School Backpack",
+    "category": "Bags",
+    "price": 1499,
+    "brand": "CampusGear",
+    "rating": 4.4,
+    "stock": 61
+  },
+  {
+    "id": 38,
+    "name": "Camera Backpack",
+    "category": "Bags",
+    "price": 2999,
+    "brand": "PhotoPro",
+    "rating": 4.6,
+    "stock": 14
+  },
+  {
+    "id": 39,
+    "name": "Mini Backpack",
+    "category": "Bags",
+    "price": 899,
+    "brand": "UrbanPack",
+    "rating": 4.0,
+    "stock": 47
+  },
+  {
+    "id": 40,
+    "name": "Waterproof Travel Bag",
+    "category": "Bags",
+    "price": 2299,
+    "brand": "TravelPro",
+    "rating": 4.5,
+    "stock": 26
+  },
+  {
+    "id": 41,
+    "name": "Ceramic Coffee Mug",
+    "category": "Home",
+    "price": 399,
+    "brand": "HomeCraft",
+    "rating": 4.3,
+    "stock": 90
+  },
+  {
+    "id": 42,
+    "name": "Stainless Steel Bottle",
+    "category": "Home",
+    "price": 799,
+    "brand": "HydroMax",
+    "rating": 4.6,
+    "stock": 75
+  },
+  {
+    "id": 43,
+    "name": "Table Lamp",
+    "category": "Home",
+    "price": 1299,
+    "brand": "BrightHome",
+    "rating": 4.4,
+    "stock": 35
+  },
+  {
+    "id": 44,
+    "name": "Wall Clock",
+    "category": "Home",
+    "price": 999,
+    "brand": "TimeCraft",
+    "rating": 4.2,
+    "stock": 42
+  },
+  {
+    "id": 45,
+    "name": "Bedside Lamp",
+    "category": "Home",
+    "price": 1499,
+    "brand": "BrightHome",
+    "rating": 4.5,
+    "stock": 28
+  },
+  {
+    "id": 46,
+    "name": "Cushion Set",
+    "category": "Home",
+    "price": 699,
+    "brand": "HomeCraft",
+    "rating": 4.1,
+    "stock": 63
+  },
+  {
+    "id": 47,
+    "name": "Cotton Bedsheet",
+    "category": "Home",
+    "price": 1199,
+    "brand": "ComfortHome",
+    "rating": 4.4,
+    "stock": 39
+  },
+  {
+    "id": 48,
+    "name": "Kitchen Storage Set",
+    "category": "Home",
+    "price": 899,
+    "brand": "KitchenPro",
+    "rating": 4.3,
+    "stock": 46
+  },
+  {
+    "id": 49,
+    "name": "Non-Stick Frying Pan",
+    "category": "Home",
+    "price": 1299,
+    "brand": "KitchenPro",
+    "rating": 4.5,
+    "stock": 31
+  },
+  {
+    "id": 50,
+    "name": "Electric Kettle",
+    "category": "Home",
+    "price": 1599,
+    "brand": "HomeTech",
+    "rating": 4.6,
+    "stock": 24
+  },
+  {
+    "id": 51,
+    "name": "JavaScript Beginner Guide",
+    "category": "Books",
+    "price": 599,
+    "brand": "TechBooks",
+    "rating": 4.7,
+    "stock": 35
+  },
+  {
+    "id": 52,
+    "name": "Data Structures Handbook",
+    "category": "Books",
+    "price": 799,
+    "brand": "LearnWell",
+    "rating": 4.8,
+    "stock": 27
+  },
+  {
+    "id": 53,
+    "name": "Clean Code Principles",
+    "category": "Books",
+    "price": 899,
+    "brand": "TechBooks",
+    "rating": 4.6,
+    "stock": 19
+  },
+  {
+    "id": 54,
+    "name": "Cloud Computing Basics",
+    "category": "Books",
+    "price": 699,
+    "brand": "LearnWell",
+    "rating": 4.4,
+    "stock": 42
+  },
+  {
+    "id": 55,
+    "name": "Python Programming",
+    "category": "Books",
+    "price": 749,
+    "brand": "CodePress",
+    "rating": 4.7,
+    "stock": 31
+  },
+  {
+    "id": 56,
+    "name": "Machine Learning Fundamentals",
+    "category": "Books",
+    "price": 999,
+    "brand": "CodePress",
+    "rating": 4.8,
+    "stock": 18
+  },
+  {
+    "id": 57,
+    "name": "Web Development Guide",
+    "category": "Books",
+    "price": 649,
+    "brand": "TechBooks",
+    "rating": 4.5,
+    "stock": 36
+  },
+  {
+    "id": 58,
+    "name": "Algorithms Made Easy",
+    "category": "Books",
+    "price": 849,
+    "brand": "LearnWell",
+    "rating": 4.6,
+    "stock": 25
+  },
+  {
+    "id": 59,
+    "name": "System Design Basics",
+    "category": "Books",
+    "price": 1099,
+    "brand": "TechBooks",
+    "rating": 4.5,
+    "stock": 15
+  },
+  {
+    "id": 60,
+    "name": "Database Management",
+    "category": "Books",
+    "price": 799,
+    "brand": "CodePress",
+    "rating": 4.3,
+    "stock": 29
+  },
+  {
+    "id": 61,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 899,
+    "brand": "FitLife",
+    "rating": 4.5,
+    "stock": 50
+  },
+  {
+    "id": 62,
+    "name": "Dumbbell Set",
+    "category": "Sports",
+    "price": 2499,
+    "brand": "PowerFit",
+    "rating": 4.6,
+    "stock": 22
+  },
+  {
+    "id": 63,
+    "name": "Football",
+    "category": "Sports",
+    "price": 999,
+    "brand": "SportPro",
+    "rating": 4.4,
+    "stock": 45
+  },
+  {
+    "id": 64,
+    "name": "Basketball",
+    "category": "Sports",
+    "price": 1199,
+    "brand": "CourtPro",
+    "rating": 4.5,
+    "stock": 37
+  },
+  {
+    "id": 65,
+    "name": "Cricket Bat",
+    "category": "Sports",
+    "price": 2999,
+    "brand": "CricketPro",
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": 66,
+    "name": "Cricket Gloves",
+    "category": "Sports",
+    "price": 1299,
+    "brand": "CricketPro",
+    "rating": 4.3,
+    "stock": 32
+  },
+  {
+    "id": 67,
+    "name": "Skipping Rope",
+    "category": "Sports",
+    "price": 399,
+    "brand": "FitLife",
+    "rating": 4.2,
+    "stock": 80
+  },
+  {
+    "id": 68,
+    "name": "Resistance Bands",
+    "category": "Sports",
+    "price": 699,
+    "brand": "PowerFit",
+    "rating": 4.5,
+    "stock": 55
+  },
+  {
+    "id": 69,
+    "name": "Tennis Racket",
+    "category": "Sports",
+    "price": 2199,
+    "brand": "CourtPro",
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": 70,
+    "name": "Sports Water Bottle",
+    "category": "Sports",
+    "price": 599,
+    "brand": "HydroMax",
+    "rating": 4.3,
+    "stock": 64
+  },
+  {
+    "id": 71,
+    "name": "Face Wash",
+    "category": "Beauty",
+    "price": 399,
+    "brand": "GlowCare",
+    "rating": 4.4,
+    "stock": 70
+  },
+  {
+    "id": 72,
+    "name": "Moisturizing Cream",
+    "category": "Beauty",
+    "price": 549,
+    "brand": "SkinPure",
+    "rating": 4.5,
+    "stock": 48
+  },
+  {
+    "id": 73,
+    "name": "Shampoo",
+    "category": "Beauty",
+    "price": 499,
+    "brand": "HairCare",
+    "rating": 4.2,
+    "stock": 65
+  },
+  {
+    "id": 74,
+    "name": "Conditioner",
+    "category": "Beauty",
+    "price": 449,
+    "brand": "HairCare",
+    "rating": 4.3,
+    "stock": 52
+  },
+  {
+    "id": 75,
+    "name": "Lip Balm",
+    "category": "Beauty",
+    "price": 199,
+    "brand": "GlowCare",
+    "rating": 4.5,
+    "stock": 100
+  },
+  {
+    "id": 76,
+    "name": "Body Lotion",
+    "category": "Beauty",
+    "price": 599,
+    "brand": "SkinPure",
+    "rating": 4.4,
+    "stock": 44
+  },
+  {
+    "id": 77,
+    "name": "Hair Dryer",
+    "category": "Beauty",
+    "price": 1499,
+    "brand": "StylePro",
+    "rating": 4.1,
+    "stock": 25
+  },
+  {
+    "id": 78,
+    "name": "Electric Trimmer",
+    "category": "Beauty",
+    "price": 1799,
+    "brand": "StylePro",
+    "rating": 4.5,
+    "stock": 33
+  },
+  {
+    "id": 79,
+    "name": "Makeup Organizer",
+    "category": "Beauty",
+    "price": 799,
+    "brand": "GlowCare",
+    "rating": 4.2,
+    "stock": 29
+  },
+  {
+    "id": 80,
+    "name": "Bath Towel Set",
+    "category": "Beauty",
+    "price": 899,
+    "brand": "ComfortHome",
+    "rating": 4.3,
+    "stock": 41
+  },
+  {
+    "id": 81,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 8999,
+    "brand": "ComfortDesk",
+    "rating": 4.6,
+    "stock": 12
+  },
+  {
+    "id": 82,
+    "name": "Study Table",
+    "category": "Furniture",
+    "price": 4999,
+    "brand": "WoodCraft",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 83,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 3999,
+    "brand": "WoodCraft",
+    "rating": 4.4,
+    "stock": 14
+  },
+  {
+    "id": 84,
+    "name": "Computer Desk",
+    "category": "Furniture",
+    "price": 5999,
+    "brand": "ComfortDesk",
+    "rating": 4.5,
+    "stock": 16
+  },
+  {
+    "id": 85,
+    "name": "Folding Chair",
+    "category": "Furniture",
+    "price": 1499,
+    "brand": "HomeCraft",
+    "rating": 4.2,
+    "stock": 30
+  },
+  {
+    "id": 86,
+    "name": "Bedside Table",
+    "category": "Furniture",
+    "price": 2499,
+    "brand": "WoodCraft",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 87,
+    "name": "Gaming Chair",
+    "category": "Furniture",
+    "price": 10999,
+    "brand": "GameZone",
+    "rating": 4.7,
+    "stock": 9
+  },
+  {
+    "id": 88,
+    "name": "TV Stand",
+    "category": "Furniture",
+    "price": 3499,
+    "brand": "HomeCraft",
+    "rating": 4.1,
+    "stock": 17
+  },
+  {
+    "id": 89,
+    "name": "Shoe Rack",
+    "category": "Furniture",
+    "price": 2199,
+    "brand": "WoodCraft",
+    "rating": 4.2,
+    "stock": 26
+  },
+  {
+    "id": 90,
+    "name": "Bean Bag Chair",
+    "category": "Furniture",
+    "price": 2999,
+    "brand": "ComfortDesk",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 91,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 1999,
+    "brand": "SoundMax",
+    "rating": 4.5,
+    "stock": 55
+  },
+  {
+    "id": 92,
+    "name": "Smart LED Bulb",
+    "category": "Electronics",
+    "price": 699,
+    "brand": "BrightHome",
+    "rating": 4.2,
+    "stock": 80
+  },
+  {
+    "id": 93,
+    "name": "Tablet 10 Inch",
+    "category": "Electronics",
+    "price": 14999,
+    "brand": "TechPro",
+    "rating": 4.4,
+    "stock": 23
+  },
+  {
+    "id": 94,
+    "name": "Portable SSD 1TB",
+    "category": "Electronics",
+    "price": 6999,
+    "brand": "DataDrive",
+    "rating": 4.7,
+    "stock": 16
+  },
+  {
+    "id": 95,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 2299,
+    "brand": "GameZone",
+    "rating": 4.6,
+    "stock": 34
+  },
+  {
+    "id": 96,
+    "name": "Monitor 24 Inch",
+    "category": "Electronics",
+    "price": 11999,
+    "brand": "VisionTech",
+    "rating": 4.5,
+    "stock": 19
+  },
+  {
+    "id": 97,
+    "name": "HDMI Cable",
+    "category": "Electronics",
+    "price": 499,
+    "brand": "ConnectPro",
+    "rating": 4.1,
+    "stock": 100
+  },
+  {
+    "id": 98,
+    "name": "Bluetooth Adapter",
+    "category": "Electronics",
+    "price": 599,
+    "brand": "ConnectPro",
+    "rating": 4.2,
+    "stock": 67
+  },
+  {
+    "id": 99,
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "price": 1299,
+    "brand": "DeskTech",
+    "rating": 4.5,
+    "stock": 43
+  },
+  {
+    "id": 100,
+    "name": "Smart Home Hub",
+    "category": "Electronics",
+    "price": 3499,
+    "brand": "HomeTech",
+    "rating": 4.4,
+    "stock": 21
+  }
+]

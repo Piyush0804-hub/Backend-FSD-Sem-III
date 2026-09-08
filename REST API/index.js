@@ -19,14 +19,20 @@ app.post("/users",(req, res)=>{
     users.push(newUser);
     res.json(users);
 });
-app.listen(3000, ()=>{
-    console.log("Server is running on port 3000 http://localhost:3000");
 
-});
 //PUT: put request to update user
 app.put("/users/:id",(req, res)=>{
     let user=users.find(u=>u.id==req.params.id);
     user.name=req.body.name;
     user.age=req.body.age;
     res.json(users);
+});
+
+//DELETE: request to delete a user
+app.delete('/users/:id', (req, res)=>{
+    users=users.filter(u=>u.id!=req.params.id);
+    res.send("User deleted successfully")
+});
+app.listen(3000, ()=>{
+    console.log("Server is running on port 3000 http://localhost:3000");
 });
