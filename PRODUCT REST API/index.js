@@ -17,6 +17,25 @@ app.get("/products",(req,res)=>{
     res.json(products);
 });
 
+app.post("/products",(req,res)=>{
+    const newProduct=req.body;
+    products.push(newProduct);
+    res.json(products);
+});
+
+app.put("/products/:id",(req, res)=>{
+    let product=products.find(p=>p.id==req.params.id);
+    product.name=req.body.name;
+    product.price=req.body.price;
+    product.stock=req.body.stock;
+    res.json(products);
+});
+
+app.delete("/products/:id",(req, res)=>{
+    products=products.filter(p=>p.id!=req.params.id);
+    res.send("Product deleted successfully");
+});
+
 app.listen(9000,()=>{
     console.log("Server is running on port 9000, http://localhost:9000/products");
 });
